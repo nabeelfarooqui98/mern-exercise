@@ -1,0 +1,22 @@
+{
+  "name": "mern-exercise",
+  "version": "1.0.0",
+  "description": "mern tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeelfarooqui98/mern-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabeelfarooqui98/mern-exercise/issues"
+  },
+  "homepage": "https://github.com/nabeelfarooqui98/mern-exercise#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
